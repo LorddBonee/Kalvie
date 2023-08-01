@@ -1,0 +1,191 @@
+.sign{
+    float: right;
+    margin-right: 9%;
+    background-color: white;
+    color: blue;
+    margin-top: 1%;
+    padding: 1% 2%;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    clear: both;
+}
+body{
+    margin: 0;
+}
+.sign1 img{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    
+}
+#boy{
+     padding-top: 65%;
+     text-align: center;
+}
+.online{
+    line-height: 8px;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    padding: 10px;
+}
+#popular{
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    opacity: 90%;
+    border: whitesmoke;
+    background-color: whitesmoke;
+}
+.it{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.filter{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+.find{
+    font-weight: 800;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.awesome{
+    background-color: black;
+    color: white;
+    padding-top: 0.1%;
+    padding-bottom: 5%;
+}
+.our{
+    margin-left:-30%;
+}
+.trial{
+    background-color: rgb(248, 248, 53);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+}
+.trial1 a{
+    color: black;
+    text-decoration: none;
+}
+.link a{
+    color: yellow;
+}
+ul{
+    padding-left: 35%;
+    text-align: left;
+}
+li{
+    line-height: 30px;
+    
+}
+.kelvie{
+    font-weight: 900;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50%;
+}
+.prof{
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all{
+    line-height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.need{
+    background-color: rgb(236, 231, 231);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 50px 0px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.you{
+    font-weight: 800;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.device1{
+    margin-top: -5%;
+    line-height: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.device{
+    font-weight: 900;
+    font-size: 18px;
+}
+.laptop{
+    font-size: 14px;
+}
+.freet{
+    background-color:rgb(202, 202, 13) ;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 1.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+}
+.freett a{
+    text-decoration: none;
+    color: black;
+}
+.popular{
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.mathematics{
+    width: 90%;
+}
+.maths{
+    width: 30%;
+    float: left;
+    margin-left: 20%;
+}
+.mats{
+    background-image: url(maths2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 5.5%;
+    padding-top: 4%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+    width: 25%;
+    text-align: center;
+}
+.English{
+    background-image: url(english1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 5.5%;
+    padding-top: 4%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+    width: 25%;
+    text-align: center;
+    
+}
+.eng{
+    background-image: url(further-mathematics1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 2%;
+    padding-left: 15%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+    margin-bottom: 2%;
+    width: 2%;  
+    margin-left: 15%;
+    margin-right: -5%;
+}
